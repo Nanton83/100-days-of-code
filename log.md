@@ -1,20 +1,92 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 1, 2019
+### Day 0: January 2, 2019
 
-**Today's Progress**: I decided to try out a new code challenge site called HackerRank because I sort of committed to this #100DaysOfCode challenge at the last minute. You can read more about that in my blog post (COMING SOON!).
+**Today's Progress**: Started this 100DaysOfCode Challenge.  Worked on SQLite and building out methods to manipulate data.
 
-**Thoughts:** It was very basic Ruby code so I had to clean off the cobwebs in my brain kind of similar to what you did every school year after summer vacation ended. The only hang-up I had was that I had forgotten to increment the index number at the end of each iteration of the while loop but I caught on to that pretty quickly and it was smooth sailing from there! [Tweet](https://twitter.com/meg_gutshall/status/1080318946585333760)
+**Thoughts:** Enjoying SQLite
 
-**Link to work:** [HackerRank: Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/94531465)
+**Link to work:**
 
-### Day 2: January 2, 2019
+### Day 1: January 3, 2019
 
-**Today's Progress**: Worked through some of Flatiron's Sinatra section curriculum: Intro to Capybara Tests, Dynamic Routes, and Dynamic Routes Lab.
+**Today's Progress**: Mapped Ruby classes to database tables.  Reviewed SQL queries to alter a database.
 
-**Thoughts**: I really like how the dynamic routes work! It's so intuitive and user-friendly-it just makes sense to me. I'm sooo looking forward to the Sinatra project coming up and working with this concept. [Tweet](https://twitter.com/meg_gutshall/status/1080654606613573633)
+**Thoughts**: Still enjoying SQLite
 
-**Link to work**: [Sinatra Dynamic Routes Lab](https://github.com/meg-gutshall/sinatra-dynamic-routes-lab-v-000)
+**Link to work**:
+
+### Day 2: January 4, 2019
+
+**Today's Progress**: Worked with ORMs.  Learning to update records.
+
+**Thoughts**: Still enjoying SQLite
+
+**Link to work**:
+
+### Day 3: January 5, 2019
+
+**Today's Progress**: Finished ORM section and moved onto dynamic ORMs.
+
+**Thoughts**: Still enjoying SQLite
+
+**Link to work**:
+
+### Day 4: January 6, 2019
+
+**Today's Progress**: Working on "Bringing it all together" lab with FlatIron School.
+
+**Thoughts**: Stayed true to coding every day and put an hour in late night after work.
+
+### Day 5: January 7, 2019
+
+**Today's Progress**: Worked on same lab as previous day.  had to re-learn how to access hashes to create new objects.
+
+**Thoughts**: Still enjoying SQLite
+
+### Day 6: January 8, 2019
+
+**Today's Progress**: Finished up Dynamic ORMs and moved onto Active Record.
+
+**Thoughts**: Feel like I'm crawling along.
+
+### Day 7: January 9, 2019
+
+**Today's Progress**: Officially started ActiveRecord section with Flatiron School.
+
+**Thoughts**: Keep moving forward.
+
+### Day 8: January 10, 2019
+
+**Today's Progress**: Wrote my own migrations with ActiveRecord.
+
+**Thoughts**: Couldn't get tests to pass. Frustrated but still motivated.
+
+### Day 9: January 11, 2019
+
+**Today's Progress**: CRUD migrations all day.
+
+**Thoughts**: Picking it up.
+
+### Day 10: January 13, 2019
+
+**Today's Progress**: ActiveRecord but moved into advanced finding and associations.
+
+**Thoughts**: Missed a day with family at house.   Really enjoyed the simplicity of writing the code by using the libraries.
+
+### Day 11: January 14, 2019
+
+**Today's Progress**: Finished ActiveRecord Lessons.  Onto Rack!
+
+**Thoughts**: Excited to get into HTML/CSS section after Rack.
+
+### Day 12: January 15, 2019
+
+**Today's Progress**: Learning about Rack and the internet.  Began writing this log (took some time to catch it up.)
+
+**Thoughts**: Glad I started this lab.  Had a fellow student recommend it since future employers may be looking back at work and learning.
+
+   
 
 
 
