@@ -84,9 +84,16 @@
 
 **Today's Progress**: Learning about Rack and the internet.  Began writing this log (took some time to catch it up.)
 
-**Thoughts**: Glad I started this lab.  Had a fellow student recommend it since future employers may be looking back at work and learning.
+**Thoughts**: Glad I started this log.  Had a fellow student recommend it since future employers may be looking back at work and learning.
 
-   
+### Day 13: January 16, 2019
+
+**Today's Progress**: Stumbled through the rest of Rack with Dynamic URL's but I think I got it.  Beginning the HTML/CSS continued section.  Really excited for this since I'm slightly (very slightly) familiar with it!
+
+**Thoughts**: I understand the concepts of the applications.  I'll definitely need to go back to remember the code structure.
+
+
+
 
 
 
