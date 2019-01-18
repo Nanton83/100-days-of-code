@@ -92,6 +92,11 @@
 
 **Thoughts**: I understand the concepts of the applications.  I'll definitely need to go back to remember the code structure.
 
+### Day 14: January 17, 2019
+
+**Today's Progress**: Watched a few HTML/CSS videos and read some lessons.  Not much today because of time.
+
+**Thoughts**: Super excited to start building phsyical sites.
 
 
 
