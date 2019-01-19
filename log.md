@@ -104,6 +104,13 @@
 
 **Thoughts**: Loved seeing something that I created instead of using my imagination with OO.
 
+###Day 16: January 18, 2019
+
+**Today's Progress**: Flew through a couple more HTML labs, inserted proper tags and content to create sites.
+
+**Thoughts**: Really enjoy the simplicity of HTML.  I enjoy looking behind the scenes at the CSS as well.
+
+
 
 
 
