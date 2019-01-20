@@ -98,19 +98,23 @@
 
 **Thoughts**: Super excited to start building phsyical sites.
 
-### Day 15: January 17, 2019
+### Day 15: January 18, 2019
 
 **Today's Progress**: Completed 10 HTML labs in the FlatIron curriculum.  Built a very basic site with lists, links and headers.
 
 **Thoughts**: Loved seeing something that I created instead of using my imagination with OO.
 
-###Day 16: January 18, 2019
+###Day 16: January 19, 2019
 
 **Today's Progress**: Flew through a couple more HTML labs, inserted proper tags and content to create sites.
 
 **Thoughts**: Really enjoy the simplicity of HTML.  I enjoy looking behind the scenes at the CSS as well.
 
+###Day 17: January 20, 2019
 
+**Today's Progress**: Worked with HTML errors using W3C markup and learned about site publishing.
+
+**Thoughts**: Really short day, weekend isn't lending much time.  More tomorrow and looking forward to a productive week.
 
 
 
